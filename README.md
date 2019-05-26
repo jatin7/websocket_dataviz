@@ -1,6 +1,10 @@
 # websocket
 Websocket &amp; Data Visualization
 
+
+Article
+https://medium.com/front-end-weekly/websocket-and-data-visualization-be3613c880db
+
 For NC DevCon 2017.
 
 Accompanying slides available here: https://www.slideshare.net/BrianGreig6/data-collection-and-consumption/
